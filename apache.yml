@@ -17,6 +17,6 @@
         dest: /var/www/html/
         src: styles.css
         dest: /var/www/html/
-         src: images/
+        src: images
         dest: /var/www/html/
 ...
